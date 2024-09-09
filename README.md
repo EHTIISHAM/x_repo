@@ -7,4 +7,4 @@ PSA Grading your cards and much more
 
 # The project is ongoing
 ### LINK 
-valideo.app
+www.valideo.app
