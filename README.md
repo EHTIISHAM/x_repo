@@ -1,8 +1,9 @@
-# ON-GOING
-# NON FUNCTIONAL AT THE MOMENT
-# CONTECT ehtasham7899@gmail.com
-# FIVERR LINK
+ON-GOING
+NON FUNCTIONAL AT THE MOMENT
+CONTACT ehtasham7899@gmail.com
+FIVERR LINK
 https://www.fiverr.com/s/8zAaZEg
+#
 ######################################
 
 # Validoe
