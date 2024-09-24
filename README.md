@@ -1,3 +1,10 @@
+# ON-GOING
+# NON FUNCTIONAL AT THE MOMENT
+# CONTECT ehtasham7899@gmail.com
+# FIVERR LINK
+https://www.fiverr.com/s/8zAaZEg
+######################################
+
 # Validoe
 Validoe is the app that uses multiple services on your pokemon card
 
