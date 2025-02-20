@@ -1,6 +1,6 @@
 #authentication functions
 import cv2
-from main import jap_model, japv_model, eng_model
+#from main import jap_model, japv_model, eng_model
 
 def crop_center(img):
     y,x,z = img.shape
@@ -12,10 +12,10 @@ def resizeImage(img):
     r = 256.0 / img.shape[0]
     dim = (256, 256)
     print (dim , r)
-    resized = cv2.resize(img, dim, interpolation = cv2.INTER_AREA)
+    resized = cv2.resize(img, dim)
     return resized
 
-def pred_block (image,model_choice):
+def pred_block (image,model_choice,eng_model,jap_model,japv_model):
     if model_choice == "Japanese Modern":
         preds = jap_model.predict(image)
         return preds, model_choice
